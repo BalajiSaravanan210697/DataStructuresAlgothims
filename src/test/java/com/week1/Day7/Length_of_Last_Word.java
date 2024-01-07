@@ -9,7 +9,7 @@ public class Length_of_Last_Word {
 	1.Understanding the problem to detailed level (clarity on input and output, constraints)
 	Yes/No - Yes
 	Input - String
-	Output -  int
+	Output - int
 	
 	2.Frame Test data (valid, invalid, complex and edge cases)
 	
